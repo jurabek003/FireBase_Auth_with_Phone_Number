@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "686814329272",
+    "project_id": "fir-authwithphonenumber-e61cf",
+    "storage_bucket": "fir-authwithphonenumber-e61cf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:686814329272:android:ed4b4e5aa2804d676ab74d",
+        "android_client_info": {
+          "package_name": "uz.turgunboyevjurabek.firebaseauthwithphonenumber"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "686814329272-9v2e3k5dp4p3f6272t6q1396kbufh2od.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyMS5qOc2XiiN7_x0iw-ScfRxjunqVKlQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "686814329272-9v2e3k5dp4p3f6272t6q1396kbufh2od.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
